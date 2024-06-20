@@ -1,0 +1,8 @@
+body {
+    /* background-image: linear-gradient(80deg, rgb(36, 6, 39),
+            rgb(2, 1, 2), rgb(147, 59, 247)); */
+    /* overflow-y: scroll; */
+    overflow-x: hidden;
+    position: relative;
+}
+
